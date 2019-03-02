@@ -1,0 +1,7 @@
+pluginManagement {
+	repositories {
+		gradlePluginPortal()
+	}
+}
+rootProject.name = 'redpacket'
+include 'users','sendings','grabs'
